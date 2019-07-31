@@ -1,0 +1,17 @@
+#aboutme {
+  background-color: rgb(251, 204, 209);
+  font-size: 24;
+  font-family:monospace;
+  text-decoration-color: rgb(84, 70, 60);
+  text-align: center;
+  font-style: normal
+  margin:auto;
+}
+
+#DonnamoyDenton {
+  background-color: rgb(251, 204, 209);
+  font-family: monospace;
+  font-size: 64;
+  text-align: center;
+  font-weight: bold;
+}
